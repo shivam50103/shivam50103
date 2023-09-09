@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">Student at Sharda University | Software Developer from India</h3>
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shivam">
+<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shivam" align="right">
 
 <p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shivam50103" /> </p>
 
