@@ -2,7 +2,7 @@
 <h3 align="center">Student at Sharda University | Software Developer from India</h3>
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shivam" align="right">
 
-<p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="shivam50103" /> </p>
+
 
 - 🔭 I’m currently working on **METAHEURISTIC BASED APPROACH OF RESOURCE SCHEDULING IN CLOUD COMPUTING**
 
